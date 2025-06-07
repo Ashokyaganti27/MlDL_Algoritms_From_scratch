@@ -7,7 +7,7 @@ This repository is a hands-on, no-black-box implementation of core machine learn
 
 ## **Supervised Learning**
 
-*** Linear Regression (Gradient Descent)**
+*** Linear Regression and Multiple regression(Gradient Descent)**
 
 📌 What’s Implemented?
 
